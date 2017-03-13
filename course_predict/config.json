@@ -1,0 +1,14 @@
+{
+"gen_data_batch_size": 4096,
+"epoch_num": 20,
+"lstm_dim": 128,
+"my_batch_size": 64,
+"embedding_dim": 128,
+"dropout_rate": 0.0,
+"eval_semester": "20153",
+"has_major": true,
+"has_grad": true,
+"has_gpa": false,
+"has_bow": true,
+"use_pca": false
+}
